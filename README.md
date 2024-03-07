@@ -11,7 +11,7 @@ One day I was looking for some command for windows that I can use to encode and 
 <summary>Stolen Stuff</summary>
 
 - [Encode function](http://web.mit.edu/freebsd/head/contrib/wpa/src/utils/base64.c) by Jouni Malinen, edited by GaspardP
-- [Decode function](https://stackoverflow.com/questions/180947/base64-decode-snippet-in-c/13935718) by Polfosol
+- [Decode function](https://stackoverflow.com/a/37109258/22601798) by Polfosol
 
 These were compiled and compared by GasperdP to provide the best soultion [here](https://stackoverflow.com/a/41094722/22601798)
 
